@@ -39,7 +39,6 @@ const Home = () => {
                     <br />
                     <AnimatedLetters letterClass={letterClass} strArray={jobArray} idx={17} />
                 </h1>
-                <h2> | Junior Developer |</h2>
                 <h2> Javascript / CSS / Tailwind / Bootstrap / APIs / HTML / Wordpress / React / Rails </h2>
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
             </div>
